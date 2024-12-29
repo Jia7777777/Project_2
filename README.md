@@ -1,1 +1,1 @@
-# This is a digital Time.
+# This is a digital timer.
